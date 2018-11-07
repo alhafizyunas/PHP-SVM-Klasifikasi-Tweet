@@ -1,0 +1,239 @@
+dikirm : kirim
+dikrim : kirim
+trnsaksi : transaksi
+pmbyrn : bayar
+order : pesan
+yuk : ayo
+rima : terima
+mari : ayo
+ongkir : ongkos kirim
+mesan : pesan
+gini : begini
+tlp : telepon
+telp : telepon
+serah : terserah
+psnan : pesanan
+nerima : terima
+brg : barang
+gini : begini
+byr : bayar
+lgsg : langsung
+pake : pakai
+ampe : sampai
+skrg : sekarang
+blum : belum
+thanks : terima kasih
+gmn : bagaimana
+gmna : bagaimana
+gimana : bagaimana
+konfirm : konfirmasi
+terkonfir : terkonfirmasi
+dikirm : dikirim
+ngirim : mengirim
+ngirimnya : mengirimnya
+confirmation : konfirmasi
+cancelled : cancel
+transaction : transaksi
+sampee : sampai
+sent : kirim
+pmbayaran : pembayaran
+gara : gara-gara
+rek : rekening
+trm : terima
+ksh : kasih
+kira : kira-kira
+pesanan : pesan
+nyangkut : sangkut
+pmbayaran : pembayaran
+dbayar : dibayar
+tlpn : telpon
+bli : beli
+psn : pesan
+dteng : datang
+nyampe : sampai
+blanja : belanja
+psnan : pesanan
+cepet : cepat
+nerimanya : menerimanya
+kelar : selesai
+pdhal : padahal
+trx : transaksi
+notif : notifikasi
+sampe : sampai
+nanya : bertanya
+thx : thanks
+maks : maksimal
+makasih : terima kasih
+makasi : terima kasih
+tf : transfer
+trf : transfer
+retur : return
+komplen : komplain
+traksaksi : transaksi
+mesan : pesan
+inv : invoice
+loe : kamu
+tgl : tanggal
+nomer : nomor
+control : kontrol
+nyairin : mencairkan
+koq : kok
+pls : pulsa
+trkirim : terkirim
+tranfr : transfer
+pmbyrn : pembayaran
+trnsksi : transaksi
+trx : transaksi
+btalkan : batalkan
+trims : terima kasih
+dikit : sedikit
+slsaikan : selesai
+smg : semoga
+masyarakat: rakyat
+trpilih : pilih
+membutukan : butuh
+memajukkan : maju
+ihrom : ihram
+sderhana : sederhana
+snang : senang
+membutukan : butuh
+memenagkan : menang
+berkulitas : kualitas
+Lalhamdlulil : alhamdulillah
+alhamdlulil : alhamdulillah
+memenagkan : menang
+smog : semoga
+blm : belum
+merakayat : rakyat
+palestine : palestina
+hamdulil : alhamdulillah
+alhamdullilah : alhamdulillah
+saudra : saudara
+trima : terima
+kmudahn : mudah
+slamat : selamat
+lbih : lebih
+bngsa : bangsa
+mnang : menang
+tlong : tolong
+slh : salah
+sperti : seperti
+mndkung : dukung
+dimpimpin : pimpin
+gub : gubernur
+lici : licik
+subhanalloh : subhanallah
+zionist : zionis
+jujuran : jujur
+trrbukti : terbukti
+hrus : harusrkyt : rakyat
+brsih : bersih
+umrah : umroh
+stuju : setuju
+dprd : tapi
+haj : haji
+smg : semoga
+tlong: tolong
+gpp : gak apa
+brsih : bersih
+pantes2 : pantas - pantas
+pdhl : padahal
+drpd : tapi
+daripada : tapi
+bsa : bisa
+klah : kalah
+smg : semoga
+mnang : menang
+tlong : tolong
+palestin : palestina
+jkt : jakarta
+congrats : selamat
+slamat : selamat
+bntu : bantu
+mndaptkn : dapat
+alloh : allah
+pndukung : dukung
+trbaik : baik
+smog : semoga
+hbs : habis
+tlng : tolong
+sngt : sangat
+bnr : benar
+buse : buset
+mnjdi : jadi
+tkut : takut
+slmat : selamat
+daripd : daripada
+slamat : selamat
+seneng : senang
+mohn : mohon
+bnhi : benahi
+lwn : lawan
+mberkahi : memberkahi
+muga : semoga
+ndak : tidak
+ngk : tidak
+pntas : pantas
+sblm : sebelum
+bkn : bukan
+slmat : selamat
+smoga : semoga
+sprti : seperti
+tahniah : terimakasih
+tdk : tidak
+tetep : tetap
+tmn : teman
+tp : tapi
+tnp : tanpa
+tntng : tentang
+tpati : tepati
+trmasuk : termasuk
+yth : yang terhormat 
+abal-abal : jelek
+ajib : enak
+alay : norak
+somse : sombong sekali
+songong : sombong
+telmi : telat mikir
+cemen : gak ada nyali
+hbd : happy birthday
+lambreta : lambat
+toa : berisik
+anjir : aduh
+asoy : enak
+banggain : bangga
+batek : kasar
+bete : bosan
+cemungudh : semangat
+cikil : licik
+cipoa : menipu
+comel : cerewet
+dodol : bodoh, lemot
+edan : gila
+gaptek : gagap teknologi
+gaje : tidak jelas
+gazebo : tidak jelas sekali
+geje : tidak jelas
+gempor : lelah
+gendeng : gila
+gokil : gila
+jijai : jijik
+jijay : jijik
+junk : spam
+diktaktor : diktator
+kere : miskin
+kroco : cupu
+lemot : lama
+letoy : lemas
+lola : loading lambat
+maacih : terima kasih
+mager : males gerak
+merekah : marah
+ngibul : bohong
+nyolong : curi
+nyolot : gak sopan
+rempong : ribet
+seneng : senang
+najong : najis
+sy : saya
+min : admin
